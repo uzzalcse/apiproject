@@ -45,3 +45,5 @@ https://www.koyeb.com/docs/deploy/beego
 
 https://beego.w3engineers.com/beego.vip/docs/install/bee.html
 
+https://beego.wiki/docs/mvc/controller/config/
+
