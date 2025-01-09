@@ -43,6 +43,13 @@ go mod tidy
 bee run
 ```
 
+### Install Swagger for Beego 
+
+```
+go get -u github.com/beego/beego/v2/server/web/swagger
+
+```
+
 ### Beego docs 
 
 
