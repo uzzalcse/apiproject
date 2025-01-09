@@ -7,9 +7,15 @@ go install github.com/beego/bee/v2@latest
 ```
 
 ### Add the directory to your path 
+### For Mac/Linux
 
 ```
 export PATH=$PATH:$HOME/go/bin
+
+```
+### For windows
+```
+$env:PATH += ";C:\Users\uzzal\go\bin"
 
 ```
 
