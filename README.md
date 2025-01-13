@@ -48,6 +48,16 @@ bee run
 ```
 go get -u github.com/beego/beego/v2/server/web/swagger
 
+
+
+
+
+```
+
+#### install swagger cmd
+
+```
+go install github.com/swaggo/swag/cmd/swag@latest
 ```
 
 ### Beego docs 
