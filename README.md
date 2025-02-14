@@ -66,6 +66,11 @@ go install github.com/golangci/golangci-lint/cmd/golangci-lint@latest
 
 ```
 
+#### Check version
+```
+golangci-lint --version
+```
+
 #### Export path 
 ```
 export PATH=$PATH:$HOME/go/bin
@@ -74,7 +79,7 @@ export PATH=$PATH:$HOME/go/bin
 #### Run linter
 
 ```
-golangci-lint --version
+golangci-lint run
 ```
 
 ### Beego docs 
