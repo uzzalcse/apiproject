@@ -59,6 +59,24 @@ go get -u github.com/swaggo/swag
 go install github.com/swaggo/swag/cmd/swag@latest
 ```
 
+#### Intall linter 
+
+```
+go install github.com/golangci/golangci-lint/cmd/golangci-lint@latest
+
+```
+
+#### Export path 
+```
+export PATH=$PATH:$HOME/go/bin
+```
+
+#### Run linter
+
+```
+golangci-lint --version
+```
+
 ### Beego docs 
 
 
